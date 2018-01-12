@@ -6,6 +6,7 @@
         "postinstall": "minstall modules"
     },
     "dependencies": {
+        "module-2": "file:modules/module-2",
         "minstall": "^2.0.2"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "name": "module-2",
+    "version": "1.0.0",
+    "main": "lib/index.js",
+    "dependencies": {
+        "request": "^2.83.0",
+        "request-promise-native": "^1.0.5"
+    }
+}
