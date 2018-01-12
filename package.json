@@ -1,0 +1,11 @@
+{
+    "name": "parent",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "postinstall": "minstall modules"
+    },
+    "dependencies": {
+        "minstall": "^2.0.2"
+    }
+}
